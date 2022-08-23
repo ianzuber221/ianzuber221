@@ -4,8 +4,7 @@ I'm a full stack developer and software engineer.
 
 I'm interested in pretty much everything, so feel free to get in touch with me!
 
-Follow me on my journey in tech [here](https://ianzuber221.github.io).
-
+ianzuber221@gmail.com
 <hr>
 
 ## What I'm working with
