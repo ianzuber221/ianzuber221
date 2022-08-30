@@ -4,7 +4,7 @@ I'm a full stack developer and software engineer.
 
 I'm interested in pretty much everything, so feel free to get in touch with me!
 
-ianzuber221@gmail.com
+ianzuber321@gmail.com
 <hr>
 
 ## What I'm working with
