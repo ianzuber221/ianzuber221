@@ -1,13 +1,16 @@
-# Hi, I'm Ian
+# 👋 Hi, I'm Ian Zuber
 
-I'm a full stack developer and software engineer.
+**Full Stack Engineer @ Bayer**
 
-I'm interested in pretty much everything, so feel free to get in touch with me!
+---
+
+## 🚀 About Me
+
+I'm an ambitious learner and a passionate developer whose journey into tech is a little unconventional—I graduated with a bachelor's in Music Technology before discovering my love for coding. That led me to Hack Reactor, where I dove headfirst into the world of software engineering.
 
 ianzuber321@gmail.com
-<hr>
 
-## What I'm working with
+## 🛠️ Tech Stack
 
 ### Front End
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
